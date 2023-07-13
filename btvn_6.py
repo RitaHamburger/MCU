@@ -57,7 +57,7 @@ elif nam == 2015:
     with col_1:
         st.markdown('''<p style="text-align: justify">Avengers: Age of Ultron (2015): Avengers tạo ra Ultron nhưng phải đối đầu với sự phản bội và khám phá sức mạnh của Wanda Maximoff.</p>''', unsafe_allow_html=True)        
     with col_2:  
-        st.image('picture/Avengers.jfif', width = 300)
+        st.image('picture/Avengers_1.jfif', width = 300)
     with col_3:
         st.image('picture/Ant_Man.jfif', width = 300)
     with col_4:
